@@ -30,4 +30,7 @@ It is time to play in my Minecraft sever.
 
 --------------The End-------------
 
-Website: [Click me](https://chenyuchen-1.github.io/)
+# This website is not finished.
+# read all of the file at https://www.luogu.com.cn/paste/9exz32dq.
+
+New website: [Click me](https://chenyuchen-1.github.io/)
